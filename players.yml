@@ -1,4 +1,5 @@
-- name: Brother Gromag
+"Brother Gromag":
+  name: Brother Gromag
   player: Nick
   link: https://www.dndbeyond.com/profile/Sirnik/characters/27153228
   level: 3
@@ -12,10 +13,11 @@
   ac: 16
   hp: 28
   bonuses:
-    str: proficiency
-    dex: proficiency
+    str-save: proficiency
+    dex-save: proficiency
 
-- name: Caltrop Bloodless
+"Caltrop Bloodless":
+  name: Caltrop Bloodless
   player: Ryan
   link: https://www.dndbeyond.com/profile/Rycosso/characters/27153025
   level: 3
@@ -29,11 +31,12 @@
   ac: 13
   hp: 18
   bonuses:
-    int: proficiency
-    dex: proficiency
+    int-save: proficiency
+    dex-save: proficiency
     initiative: chaMod
 
-- name: Gluteus Maximus
+"Gluteus Maximus":
+  name: Gluteus Maximus
   player: Kurt
   link: https://www.dndbeyond.com/profile/lilvin/characters/29239078
   level: 3
@@ -47,5 +50,5 @@
   ac: 15
   hp: 25
   bonuses:
-    str: proficiency
-    dex: proficiency
+    str-save: proficiency
+    dex-save: proficiency
