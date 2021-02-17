@@ -15,6 +15,19 @@
   bonuses:
     str-save: proficiency
     dex-save: proficiency
+    acrobatics: proficiency
+    athletics: proficiency
+    insight: proficiency
+    performance: proficiency
+    survival: proficiency
+  movement:
+    walk: 35
+    climb: 10
+    swim: 10
+  languages:
+    - common
+    - giant
+    - halfling
 
 "Caltrop Bloodless":
   name: Caltrop Bloodless
@@ -31,9 +44,27 @@
   ac: 13
   hp: 18
   bonuses:
-    int-save: proficiency
     dex-save: proficiency
+    int-save: proficiency
     initiative: chaMod
+    athletics: proficiency
+    deception: proficiency
+    perception: proficiency
+    persuasion: proficiency
+    stealth:
+      - proficiency
+      - proficiency
+    sleight-of-hand: proficiency
+  movement:
+    walk: 30
+    climb: 15
+    swim: 15
+  languages:
+    - common
+    - infernal
+    - thieves' cant
+  senses:
+    - Darkvision 60 ft.
 
 "Gluteus Maximus":
   name: Gluteus Maximus
@@ -52,3 +83,18 @@
   bonuses:
     str-save: proficiency
     dex-save: proficiency
+    athletics: proficiency
+    medicine: proficiency
+    perception: proficiency
+    stealth: proficiency
+    survival: proficiency
+  movement:
+    walk: 25
+    climb: 10
+    swim: 10
+    fly: 50
+  languages:
+    - aarakocra
+    - auran
+    - common
+    - halfling
