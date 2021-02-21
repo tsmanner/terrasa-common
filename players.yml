@@ -42,7 +42,7 @@
   wis: 12
   cha: 16
   ac: 13
-  hp: 18
+  hp: 0
   bonuses:
     dex-save: proficiency
     int-save: proficiency
