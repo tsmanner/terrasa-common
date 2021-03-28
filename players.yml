@@ -29,6 +29,44 @@
     - giant
     - halfling
 
+"Kask Blightborn":
+  name: Kask Blightborn
+  player: Ryan
+  link: https://www.dndbeyond.com/profile/Rycosso/characters/46112852
+  level: 3
+  proficiency: 2
+  str: 9
+  dex: 15
+  con: 12
+  int: 12
+  wis: 9
+  cha: 15
+  ac: 12
+  hp: 21
+  bonuses:
+    dex-save: proficiency
+    int-save: proficiency
+    deception: proficiency
+    history: proficiency
+    investigation: proficiency
+    sleight-of-hand: proficiency
+    stealth:
+      - proficiency
+      - proficiency
+    survival: proficiency
+  movement:
+    walk: 30
+    climb: 15
+    swim: 15
+  languages:
+    - common
+    - dwarvish
+    - gnomish
+    - infernal
+    - thieves' cant
+  senses:
+    - Darkvision 60 ft.
+
 "Caltrop Bloodless":
   name: Caltrop Bloodless
   player: Ryan
